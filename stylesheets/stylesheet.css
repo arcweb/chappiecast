@@ -93,6 +93,12 @@ body:not(:-moz-handler-blocked) .movieblock {
   font-size: 1.5em;
 }
 
+.site-footer-owner a{
+ text-decoration: none;
+ color: white;
+}
+.site-footer-owner a:hover{ text-decoration: underline;
+}
 .site-footer-credits {
   position: relative;
   text-align: center;
